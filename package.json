@@ -1,0 +1,8 @@
+{
+  "name": "datagram-discard-service",
+  "version": "0.0.1",
+  "description": "Datagram based server implementing a RFC863 discard service",
+  "main": "index.js",
+  "author": "Ferdi Schmidt",
+  "license": "MIT"
+}
